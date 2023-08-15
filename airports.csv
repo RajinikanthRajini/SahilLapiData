@@ -1,0 +1,612 @@
+Airport Code,Airport Name
+DEL,Indira Gandhi International Airport
+BOM,Chhatrapati Shivaji International Airport
+MAA,Chennai International Airport
+BLR,Kempegowda International Airport
+CCU,Netaji Subhash Chandra Bose International Airport
+GOI,Dabolim Airport
+HYD,Rajiv Gandhi International Airport
+COK,Cochin International Airport
+AMD,Sardar Vallabh Bhai Patel International Airport
+TRV,Thiruvananthapuram International Airport
+JAI,Jaipur International Airport
+PNQ,Pune Airport / Lohagaon Air Force Station
+,HAL Airport
+ATQ,Sri Guru Ram Dass Jee International Airport
+BDQ,Vadodara Airport
+IXE,Mangalore International Airport
+VNS,Lal Bahadur Shastri Airport
+BBI,Biju Patnaik Airport
+VTZ,Visakhapatnam Airport
+CJB,Coimbatore International Airport
+GAU,Lokpriya Gopinath Bordoloi International Airport
+BPM,Begumpet Airport
+CCJ,Calicut International Airport
+IXC,Chandigarh International Airport
+JDH,Jodhpur Airport
+IXM,Madurai Airport
+IDR,Devi Ahilyabai Holkar Airport
+LKO,Chaudhary Charan Singh International Airport
+PAT,Jay Prakash Narayan Airport
+IXB,Bagdogra Airport
+IXL,Leh Kushok Bakula Rimpochee Airport
+NAG,Dr. Babasaheb Ambedkar International Airport
+IXZ,Veer Savarkar International Airport / INS Utkrosh
+UDR,Maharana Pratap Airport
+VGA,Vijayawada Airport
+SXR,Sheikh ul Alam International Airport
+STV,Surat Airport
+,Juhu Aerodrome
+BHJ,Bhuj Airport
+IXA,Agartala - Maharaja Bir Bikram Airport
+IXU,Aurangabad Airport
+BHO,Raja Bhoj International Airport
+IMF,Imphal Airport
+IXJ,Jammu Airport
+JRH,Jorhat Airport
+IXR,Birsa Munda Airport
+RPR,Swami Vivekananda Airport
+RJA,Rajahmundry Airport
+RAJ,Rajkot Airport
+IXS,Silchar Airport
+AGX,Agatti Airport
+AGR,Agra Airport / Agra Air Force Station
+DBR,Darbhanga Airport
+DIB,Dibrugarh Airport
+GDB,Gondia Airport
+CNN,Kannur International Airport
+ISK,Nashik Airport
+,Ambala Air Force Station
+KUU,Kullu Manali Airport
+PUT,Sri Sathya Sai Airport
+SLV,Shimla Airport
+TIR,Tirupati Airport
+,Kalaikunda Air Force Station
+IXG,Belagavi Airport
+JGA,Jamnagar Airport
+IXD,Prayagraj Airport
+KNU,Kanpur Airport
+HJR,Khajuraho Airport
+IXW,Sonari Airport
+IXK,Keshod Airport
+DIU,Diu Airport
+,INS Garuda / Willingdon Island Naval Air Station
+DGH,Deoghar Airport
+,Baramati Airport
+,Bokaro Airport
+,Bhiwani Airport
+,Harihar Airport
+,Hakimpet Airport
+,Gandhinagar Airport
+TEZ,Tezpur Airport
+BHU,Bhavnagar Airport
+DED,Dehradun Jolly Grant Airport
+GAY,Gaya Airport
+JLR,Jabalpur Airport
+PBD,Porbandar Airport
+SHL,Shillong Airport
+TRZ,Tiruchirappalli International Airport
+AJL,Lengpui Airport
+RDP,Kazi Nazrul Islam Airport
+HBX,Hubli Airport
+SAG,Shirdi Airport
+DHM,Kangra Airport
+IXP,Pathankot Airport
+PNY,Pondicherry Airport
+DBD,Dhanbad Airport
+HSS,Hisar Airport
+,Sirsa Air Force Station
+BUP,Bhatinda Air Force Station
+JSA,Jaisalmer Airport
+,Panagarh Air Force Station
+BEP,Bellary Airport
+IXX,Bidar Airport / Bidar Air Force Station
+,Dundigul Air Force Academy
+IXH,Kailashahar Airport
+KTU,Kota Airport
+REW,"Rewa Airport, Chorhata, REWA"
+RRK,Rourkela Airport
+,Tuirial Airfield
+,Baljek Airport
+JGB,Jagdalpur Airport
+,Jalgaon Airport
+MYQ,Mysore Airport
+,Giridih Airport
+,Purnea Airport
+,Bhilai Airport
+,Bhilwara Airport
+,Chakulia Airport
+,Dhulia Airport
+,Nuagaon Airport
+JRG,Jharsuguda Airport
+,Patiala Airport
+,Uttarlai Airport
+,Burnpur Airport
+,Amreli Airport
+,Birwa Airstrip
+RGH,Balurghat Airport
+,Barrackpore Air Force Station
+,Baldota Koppal Aerodrome
+,Behala Airport
+,Bhagalpur Airport
+,Barbil Tonto Airstrip
+,INS Kohassa
+,Sido Kanhu Airport
+,Durgapur Steel Plant Airport
+,Pinjore Airfield and Flying Club
+,Gauchar Airstrip
+,Kendujhar Airport
+,Nadirgul Airport
+IXN,Khowai Airport
+LDA,Malda Airport
+IXQ,Kamalpur Airport
+,Nagarjuna Sagar Airport
+,Naliya Air Force Station
+,Karnal Airport
+,Thoise Airport
+IXT,Pasighat Airport
+,Surichua Air Base
+,Korba Airport
+,Coimbatore Air Force Station
+,Fursatganj Airport
+TJV,Thanjavur Air Force Station
+VDY,Jindal Vijaynagar Airport
+,Yelahanka Air Force Station
+,HeliTaxii Heliport
+,Ganga Helipad
+,Gangtok Helipad
+,ICAT Helipad
+,Lebong Helipad
+,Kuttikayam Helipad
+,Chandimandir Helipad
+,Pilani Helipad
+,EON Helipad
+,RPSCL Private Helipad
+,Varanasi Police Line Helipad
+DMU,Dimapur Airport
+GWL,Gwalior Airport
+KLH,Kolhapur Airport
+IXI,Lilabari North Lakhimpur Airport
+KQH,Kishangarh Airport Ajmer
+PAB,Bilaspur Airport
+GOP,Gorakhpur Airport
+CDP,Kadapa Airport
+IXY,Kandla Airport
+LTU,Murod Kond Airport
+GOX,Mopa International Airport
+NDC,Nanded Airport
+KJB,Kurnool Airport
+PGH,Pantnagar Airport
+SDW,Sindhudurg Airport
+IXV,Along Airport
+RTC,Ratnagiri Airport
+LUH,Ludhiana Airport
+AKD,Akola Airport
+BEK,Bareilly Air Force Station
+,Jakkur Aerodrome
+BKB,Nal Airport
+,Campbell Bay Airport / INS Baaz
+NMB,Daman Airport
+HGI,Itanagar Donyi Polo Hollongi Airport
+CBD,Car Nicobar Air Force Base
+,Hashimara Air Force Station
+KBK,Kushinagar International Airport
+MZU,Muzaffarpur Airport
+,Safdarjung Airport
+SXV,Salem Airport
+SSE,Solapur Airport
+,Udhampur Air Force Station
+ZER,Ziro Airport
+GUX,Guna Airport
+TNI,Satna Airport
+,Kanpur Civil Airport
+AIP,Adampur Airport
+,Sindhudurg Airport
+,(Delete)Delhi Escorts pritychavda.in
+,Faizabad Airport
+,Hindon Airport / Hindon Air Force Station
+GBI,Kalaburagi Airport
+PYG,Pakyong Airport
+,Sultanpur Airport
+TCR,Tuticorin Airport
+,Vijaynagar Advanced Landing Ground
+,Walong Advanced Landing Ground
+,Daltonganj Airport
+,Raxaul Airport
+,Raigarh Airport (JSPL)
+,Chanda Airport
+,Karad Airport
+,Birlagram Airport
+,Sidhi Airport
+,Dhana Airport
+,Nimach Airport
+,Burhar Airport
+,Ratlam Airport
+,Thuniabhand Airport
+,Band Tal Airport
+,Khargon Govt. Airstrip
+,CHINDWARA AIRFIELD
+,Utkela Airport
+,Vedanta Lanjigarh Airstrip
+,Ondwa Airport
+,Phalodi Airport
+,Sirohi Airport
+,Banswara Airport
+,Abu Road Airport
+,Suratgarh New Airport
+,Jhunjhunu Airport
+,Pilani New Airport
+,Nagaur Airport
+,Hosur Airport
+,Muirpur Airport
+,Jhansi Airport
+,Aamby Valley Airport
+,Akbarpur Mahamaya Rajkiya Airport
+,Akli Airport
+,Dhanipur Airstrip
+,Amla Airport
+,Amravati (Belora) Airstrip
+,Savitri Jindal Airport
+,INS Rajali / Arakkonam Naval Air Station
+,Awantipura Air Force Station
+,Dinjan Airfield
+,Cuttack Airport
+,Saifai Airport
+,Ulao Aerodrome
+,Benti Airstrip
+,Berhampur Airport
+,Beas Airport
+,Andhau Airfield
+,Chabua Air Force Station
+,Tambaram Air Force Station
+,Maa Ganga Airport Uttarkashi
+,Chushul Airstrip
+COH,Cooch Behar Airport
+DEP,Daporijo Airport
+,Deesa Airport
+,Therubali Aerodrome
+,Mandla Airstrip
+,Dunakonda Airport
+,Halwara Air Force Station
+,Noamundi Airport
+PYB,Jeypore Airport
+,Sukinda Airstrip
+,IIT Kanpur Airport
+,Kargil Airport
+,Mechuka Advanced Landing Ground
+,Fury Airport
+,Khandwa Airport
+,Fukche Advanced Landing Ground
+,Lalitpur Airport
+,Bakshi Ka Talab Air Force Station
+,Madhubani Airport
+,Viraf Airstrip
+,Mandvi Airport
+,Marhamtabad Airport
+,Mau Heliport
+,Dr. Bhimrao Ambedkar Airstrip
+,Mehsana Airport
+,Mithapur Airport
+,Mohammadabad Airport
+,Mundra Airport
+,Kovilpatti Airport
+,Nawapara Airport
+NVY,Neyveli Airport
+,Daulat Beg Oldi Advanced Landing Ground
+,Nyoma Airstrip
+OMN,Osmanabad Airport
+,Bihta Air Force Station
+,Pithoragarh Airport
+,Poonch Airport
+,Birasal Airport
+RJI,Rajouri Airport
+RMD,Basanth Nagar Airport
+,Ramnad Naval Air Station
+RUP,Rupsi Airport
+,Saharsa Airport
+,Hirakud Airport
+,Sarsawa Air Force Station
+,Shirpur Airport
+,Sookerating (Doomdooma) Airport
+TEI,Tezu Airport
+,Tuting Advanced Landing Ground
+,Bentayan Airport
+,Umaria Air Field
+,Vanasthali Airport
+,Vellore Airport
+,Vijay Nagar Airport
+WGC,Warangal Airport
+,Siachen Base Camp Heliport
+,Tawang Air Force Station
+,Kavaratti Helipad
+,Koirengei Airstrip
+,Pukpui Helipad
+,Vairengte Helipad
+,no airport
+,Salwas
+,Dudhkundi Airfield
+,Piardoba Airfield
+,Bishnupur Airfield
+,Guskhara Airfield
+,Pandaveswar Airfield
+,Abohar Heliport
+,Adilabad Airfield
+,Shanti Nagar Heliport
+,Adilabad Heliport
+,Adiudupi Heliport
+,Kayathar Airstrip
+,SVP Hospital Helipad
+,CQAV Heliport
+,Ahmednagar Police Heliport
+,DMR Area Heliport
+,ACC&S Heliport
+,Thuampui Helipad
+,Mizoram University Heliport
+,Mualpui Helipot
+,Ajog Heliport
+,Alappuzha Heliport
+,Saily Police Training School Heliport
+,Amaravati Heliport
+,Amini Helipad
+,Anachal Heliport / Southern Skies Balloonport
+,Anaparthi Heliport
+,Andrott Heliport
+,Vagator Helipad
+,Areshiroor Helipad
+,INS Kadamba Heliport
+,Dalapchand Heliport
+,Ashoknagar Airfield
+,Ayiranalloor Heliport
+,Badangi Airstrip
+,Bagalkot Heliport
+,NOCCi Business Park Heliport
+,Tata Steel Bamnipal Heliport
+,Bamnipal Heliport
+,Central University of Rajasthan Heliport
+,Bangaram Heliport
+,Manjunath Huded Helipad
+,Chikodi Helipad
+,Infosys Heliport
+,Oterra Hotel Helipad
+,Rangeilunda Heliport
+,Bhainsdehi Helipad
+,Bhograi Heliport
+,Bhokardan Heliport
+,Bilaspur Helipad
+,Bitra Heliport
+,Boleng Heliport
+,Buragam Heliport
+,Sequirem Heliport
+,Ottakathatla Helipad
+,Aviation Research Centre RAW Headquarters Helipad
+,Champhai Heliport
+,Chango Heliport
+,Air 16 Heliport
+,Chennai Military Hospital Helipad
+,Chetlat Heliport
+,Mozari Point Helipad
+,Chumathang Heliport
+,Anna Stadium Heliport
+,Nellore Airport
+,Dahod Helipad
+,Darlawn Chhimveng Heliport
+,Davanagere Heliport
+,Deomali Heliport
+,Dholka Heliport
+,Dhubulia Airstrip
+,Digha Heliport
+,Aerial Bay Heliport
+,Diglipur Heliport
+,Digri Airstrip
+,Raj Bhavan Heliport
+,Kia Factory Heliport
+,Kia Factory Helipad
+,Duliajan Oil Heliport
+,Dwarkadhish Heliport
+,Dwarkashish Heliport
+,Ella Heliport
+,Lakeshore Hospital Helipad
+,Amrita Heliport
+,Bolgatty / Lulu Grand Hyatt Heliport
+,Indian Naval Academy Heliport
+,Gadag Government Estate Heliport
+,Jindal Heliport
+,Tata Steel Gadapur Heliport
+,Dhirubhai Ambani Heliport
+,Koba Heliport
+,Gujarat State Assembly Heliport
+,STC BSF Indian Army Helipad
+,Gelling Heliport
+,Ghooghra Heliport Ajmer
+,TELAV Helipad
+,MMMUT Heliport
+,Fertilizer Colony Helipad
+,Havelock Heliport
+,Jaypee Greens Helipad
+,Gulbarga Heliport
+,Guntur Police Parade Ground Heliport
+,Hadagali Helipad
+,Sardar Patel Heliport
+,Agra Heliport
+,Defence Research and Development Organization Helipad
+,Naini Airfield
+,Itanagar (Naharlagun) Heliport
+,Itanagar (Naharlagun) Heliport
+,Jaigaon Heliport
+,PAP Complex Heliport
+,Jain Irrigations Helipad
+,Dimna Lake Helipad
+,Jengging Heliport
+,Kadmat Heliport
+,Kakinada Beach Navy Heliport
+,Jawaharlal Nehru Technological University Heliport
+,Kakraban Heliport
+,Kalol Heliport
+,Kalpa Heliport
+,Kalpeni Heliport
+,Kalyan Airstrip
+,Chettinad Airstrip
+,Kanchrapara Airfield
+,Catholic Medical Centre Helipad
+,Kanyakumari Heliport
+,MARG Heliport
+,Kargil Heliport
+,Karimnagar Heliport
+,Karu Heliport
+,Kawade Heliport
+,Kawnpui Helipad
+,Kawrtethawveng Heliport
+,Chettinad Health City Helipad
+,Nimmoo Basgo Hydroelectric Plant Heliport
+,Khaltsi Heliport
+,Khuldo Heliport
+,Kiari Heliport
+,Kiltan Heliport
+,Kishanpura Goyla Heliport
+,Pushkar Hotel Heliport
+,Aster Hospital Helipad
+,Kohima Helipad
+,Ashramam Helipad
+,Jatayu-Chipsan Aviation Heliport
+,HAL Heliport
+,Koteshwara Heliport
+,Kottayam Police Heliport
+,Jabua Airstrip
+,ECR Heliport
+,SAP Camp Helipad
+,Hut Bay Heliport
+,Hut Bay Seaplane Base
+,Neil Island Heliport
+,ACC Heliport
+,Ledo Airfield
+,Leh Heliport
+,Sethlun Heliport
+,Maithon Heliport
+,Luangpawl Heliport
+,Man Heliport
+,INS Parundu Heliport
+,AVC Polytechnic College Heliport
+,Chethy Beach Helipad
+,Daman Heliport
+,Mathura Heliport
+,Mavalli Helipad
+,Mayabunder Heliport
+,Miao Heliport
+,Kunjali Helipad
+,Minicoy Heliport
+,Minicoy Fire Station Heliport
+,Vallur Camp Heliport
+,KSEB Heliport
+,Rukling Heliport
+,Judi Heliport
+,Dinjan Air Force Station
+,Shikra Naval Helibase
+,Butcher Island Helipad
+,Mahalaxmi Race Course Helipad
+,Rajbhavan Helipad
+,Mumbai University Heliport
+,HQ Eastern Air Command Helipad
+,Nagapattinam Heliport
+,United Phosphorus Helipad
+,Nako Heliport
+,Nalung Heliport
+,Nampong Heliport
+,Namsai Heliport
+,Chowra Island Heliport
+,Tarasa Dwip Island Heliport
+,Kamorta Heliport
+,Goaltekery Heliport
+,Champin Heliport
+,Katchal Heliport
+,Naraj Heliport
+,BKT Heliport
+,Reliance Corporate Park Heliport
+,Reliance Corporate Park North Heliport
+,Navi Mumbai International Airport (under construction)
+,Namchi Helipad
+,Krishnapatnam North Heliport
+,Narayana Medical College Heliport
+,Nimmoo Heliport
+,Devaswam Board Pampa College Helipad
+,Nyoma Heliport
+,ABM Junior College Heliport
+,Ongole Police Training College Heliport
+,Prakrithisakthi Helipad
+,Pangin Heliport
+,Parsuram Kund Heliport
+,Parva Helipad
+,Paschim Jalefa Heliport
+,Manjinikkara Helipad
+,Chipsan-Orange Hills Heliport
+,Pedong Helipad
+,Pelling Helipad
+,Sabarimala Nilakkal Heliport
+,Kalyani BSF Helipad
+,Phalodi Airfield
+,Pooh Heliport
+,Ross Island Heliport
+,Chidiya Tapu Heliport
+,Prayagraj Army Helipad
+,Pondicherry Heliport
+,Pondicherry Harbour Heliport
+,Puri Heliport
+,Charra Airfield
+,Pushkar Heliport
+,Quitol Heliport
+,Udaipur Helipad
+,Ramanathapuram Heliport
+,Rangat Heliport
+,Rasgovindpur Airstrip
+,GMR Institute of Technology Helipad
+,Rohini Heliport
+,Roing Heliport
+,Sivasagar Heliport
+,Saiha Helipad
+,Saitual Heliport
+,Sevoke Road Indian Army Heliport
+,Sagar Helipad
+,Sarkhej-Okaf Heliport
+,Cholavaram Airstrip
+,Serchhip Helipad
+,Shegaon Heliport
+,Shillong Indian Army Helipad
+,Annadale Helipad
+,Jhakri SJVN Heliport
+,Rampur Bushahr Heliport
+,Tharu Heliport
+,Bithal Heliport
+,Kumharsain Heliport
+,Shivamogga Greenfield Airport
+,Shoktsen Heliport
+,Sialsuk Heliport
+,Haveli Grounds Heliport
+,Tata Steel Helipad
+,Sito Gunno Helipad
+,Kaurik Heliport
+,Sri City Heliport
+,Sriharikota Heliport
+,Srikakulam Heliport
+,Suangpuilawn Heliport
+,Suheli Par Heliport
+,HAL Heliport
+,Sundipenta Helipiort
+,Surtok Heliport
+,Tadepalligudem Airstrip
+,Tangtse Heliport
+,NTPC Kudgi Helipad
+,Tenali Market Heliport
+,Kuttanellur Heliport
+,Tiloniya Heliport
+,Tuipuibari Heliport
+,Upper Tadong Indian Army Helipad
+,Upshi Heliport
+,MAA Foundation Helipad
+,Varkala Helipad
+,Ulundurpet Airstrip
+,Suvarnakuteer Phase II Helipad
+,Rushikonda Beach Heliport
+,Oxygen Towers Helipad
+,MIRC Heliport
+,Yanam Heliport
+,Sant Gadge Baba - Yavatmal Aioort
+,Yingkiong Heliport
